@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDEyOjQxOjQ2IEFNJmhhc2hfdmFsdWU9UnRYUkVHTlRtTnFhMk01VndSTU9GQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNjYWExYTM0LTMxZTYtNDZhYi05NTNhLWYxYTA2MDE3MmFjZQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDQ6MTY6MzYgUE0maGFzaF92YWx1ZT1vZkZObmNGZ3VSUlBYMThxNnJ4K2NRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmE0MDNhOGQtYTQ0NC00MzMzLWIwODgtMWY3MmU4ZTZmZWQw/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDEyOjQxOjQ2IEFNJmhhc2hfdmFsdWU9SjFxSFJoR05XTk1SeG9BYktnVW1Ndz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIyOTkwZGU2LTZjNDgtNDFiZC1hODU4LWE4NWJhZWMxNzhiNA==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDQ6MTY6MzcgUE0maGFzaF92YWx1ZT1Rbk1CZjk2blJSV3kwcmNOOXk4WTdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzI4YTM1ZDUtOGZiYi00YWJhLWJjYmItMDk5MzQ4ZGFmNzk5/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDEyOjQxOjQ3IEFNJmhhc2hfdmFsdWU9OWtyTnNjV3JNajIwbSt1b29jMSthUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRkNjlhNzg2LTM5MWQtNDM2Ny04ZjI3LTgwODAzNWRjNzdlZQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDQ6MTY6MzcgUE0maGFzaF92YWx1ZT1LQUJFT0g4ZGhOVy9RQUpDblBRTERnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWI2MmE1MDItYzdmYy00OTA2LWFiNTgtNTNkNmEwMGQ1ODMy/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -6278,7 +6278,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDI2IDg6NTg6MTcgUE0maGFzaF92YWx1ZT00UFduSkdDNG43VE04d0I0VXR2ZUJnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTMxNTYzYmYtNzhmYi00ZDY0LThkYjEtMDllZDZlY2U4ODZj/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDE6Mzc6MSBQTSZoYXNoX3ZhbHVlPXMvRUhNZE5yZEREazNYemRLdm5Eenc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02YjRiYmEwNS02MmY1LTQ5ZmQtOGI4My0yZDVhNzNiZmVhZGU=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -6290,7 +6290,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDI2IDg6NTg6MTUgUE0maGFzaF92YWx1ZT1mY1BZR3dLRC9VQUMyQ0JhRW4zenFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGFmOTQzNjYtZWUzMS00NjAwLTlhYjQtNjg2NDIzM2U5MTcx/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDE6Mzc6MCBQTSZoYXNoX3ZhbHVlPUNNQ3pPbnZIMC82anY1UnY0ZGZ3aFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02ZTkzZDc0ZS0zNmE0LTRhNjEtYmQ5OC1iNzVjNzgyODQ4NmY=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -6428,7 +6428,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDI2IDg6NTg6MTYgUE0maGFzaF92YWx1ZT00ZlcwaW9hL1dZTVI4MEJvRUcxbDJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGM4YmZlYTYtNDgyNy00YmU2LWJjMDEtZmI2NDRiMTYxNzBi/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDE6Mzc6MSBQTSZoYXNoX3ZhbHVlPVd6VWtjOVB5dkVKamp2ZXJQcnpzaFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNmRlMGIwYi0wNTQzLTQ1NGQtYjJjYi02MzZlY2M4ZTM3NWQ=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
