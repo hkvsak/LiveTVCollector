@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24 23:14:36",
+  "date": "2026-07-25 08:59:15",
   "channels": {
     "film": [
       {
@@ -358,7 +358,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "lifestyle",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiZDFmZDQ2ZmQtYjkwOC00ZmYzLTg0ODktOWU3MjkyYWFhOGIxIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8"
+        "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiM2NlOWVhMDMtYWE3OC00NGJiLTlhODctMDFlOTAwY2Y2ZWNlIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8"
       },
       {
         "name": "Moda TV",
@@ -559,7 +559,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiNGFhZTAzMzEtNzhlNi00ZTE4LTgzZmYtMzQzYzk0NTQ3MmMyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMDRmMTk5OTctMmJlYS00ZTkzLWExYjgtMWJkYzVjNTQzZTk3IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -608,7 +608,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYzc3OTllMGUtNWFlNy00NzhiLTg1ZDctZDhlMTExMDhjYWRiIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYzE5ZjNiNjUtMDVmMS00N2M0LTgxMmYtYjU2NzNlNWU5Nzc5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -2209,41 +2209,181 @@
         "url": "https://tv.intchoson.com/kctv/main_stream.m3u8"
       }
     ],
-    "WORLD CUP 2026": [
+    "ASTRO AUDIO": [
       {
-        "name": "RTM WORLD CUP 2026 1",
-        "logo": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-1-Dolby.png",
-        "group": "WORLD CUP 2026",
+        "name": "HITZ FM",
+        "logo": "https://pictr.com/images/2025/01/20/xppvO6.png",
+        "group": "ASTRO AUDIO",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd"
       },
       {
-        "name": "RTM WORLD CUP 2026 2",
-        "logo": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-2-Dolby.png",
-        "group": "WORLD CUP 2026",
+        "name": "MY FM",
+        "logo": "https://pictr.com/images/2025/01/20/xppJZq.png",
+        "group": "ASTRO AUDIO",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd"
       },
       {
-        "name": "RTM WORLD CUP 2026 3",
-        "logo": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png",
-        "group": "WORLD CUP 2026",
+        "name": "LITE FM",
+        "logo": "https://pictr.com/images/2025/01/20/xppK4I.png",
+        "group": "ASTRO AUDIO",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd"
       },
       {
-        "name": "SUKAN RTM",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png",
-        "group": "WORLD CUP 2026",
+        "name": "MIX FM",
+        "logo": "https://pictr.com/images/2025/01/20/xppO5O.png",
+        "group": "ASTRO AUDIO",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd"
       },
       {
-        "name": "TV OKEY",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png",
-        "group": "WORLD CUP 2026",
+        "name": "ERA FM",
+        "logo": "https://pictr.com/images/2025/01/20/xppkpY.png",
+        "group": "ASTRO AUDIO",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd"
+      },
+      {
+        "name": "SINAR FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpp9jZ.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd"
+      },
+      {
+        "name": "MELODY FM",
+        "logo": "https://pictr.com/images/2025/01/20/xppR2J.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd"
+      },
+      {
+        "name": "RAAGA FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpptin.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd"
+      },
+      {
+        "name": "SYOK CLASSIC ROCK",
+        "logo": "https://pictr.com/images/2025/01/20/xpp2IB.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd"
+      },
+      {
+        "name": "SYOK GOLD",
+        "logo": "https://pictr.com/images/2025/01/20/xpp3Oc.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd"
+      },
+      {
+        "name": "SYOK OPUS",
+        "logo": "https://pictr.com/images/2025/01/20/xppsaG.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd"
+      },
+      {
+        "name": "GEGAR FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpGP8P.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd"
+      },
+      {
+        "name": "SYOK INDIA BEAT",
+        "logo": "https://pictr.com/images/2025/01/20/xpG0vj.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd"
+      },
+      {
+        "name": "SYOK JAZZ",
+        "logo": "https://pictr.com/images/2025/01/20/xpG77l.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd"
+      },
+      {
+        "name": "SYOK OSAI",
+        "logo": "https://pictr.com/images/2025/01/20/xpGBp2.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd"
+      },
+      {
+        "name": "SYOK BAYU",
+        "logo": "https://pictr.com/images/2025/01/20/xpGEjf.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd"
+      },
+      {
+        "name": "KENYALANG",
+        "logo": "https://pictr.com/images/2025/01/20/xpGx3U.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd"
+      },
+      {
+        "name": "NAS FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpGZi9.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd"
+      },
+      {
+        "name": "V FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpGaIu.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd"
+      },
+      {
+        "name": "WAI FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpGgkg.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd"
+      },
+      {
+        "name": "MINNAL FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpGN88.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd"
+      },
+      {
+        "name": "AI FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpGUFx.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd"
+      },
+      {
+        "name": "ASYIK FM",
+        "logo": "https://pictr.com/images/2024/01/04/EXD2Gc.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd"
+      },
+      {
+        "name": "ZAYAN FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpG67v.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd"
+      },
+      {
+        "name": "GO XUAN FM",
+        "logo": "https://pictr.com/images/2025/01/20/xpGSGV.png",
+        "group": "ASTRO AUDIO",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd"
       }
     ],
     "SPORTS": [
@@ -2539,6 +2679,13 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
       },
       {
+        "name": "SALAM BAITULMAL",
+        "logo": "https://rtm-images.glueapi.io/320x0/live_channel/SalamBaitullah.jpg",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/playlist.m3u8"
+      },
+      {
         "name": "TV1",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png",
         "group": "MALAYSIA🇲🇾",
@@ -2579,6 +2726,13 @@
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
+      },
+      {
+        "name": "TV6",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV6.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
       },
       {
         "name": "DidikTv KPM",
