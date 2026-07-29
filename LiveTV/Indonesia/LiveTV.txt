@@ -6352,6 +6352,16 @@ URL: https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: 12. METRO TV (Dens)
+URL: https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 12. METRO TV (Vidio)
+URL: https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: 17. CNBC INDONESIA (FEED)
 URL: https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png
@@ -6392,8 +6402,13 @@ URL: https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/daaitv.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 13. MDTV (V+)
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+Name: 13. MDTV (Dens)
+URL: https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 13. MDTV (Trv)
+URL: http://202.150.161.212:5000/live/channel31/playlist.m3u8
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -12981,7 +12996,7 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 
 Group: Nasional 🇮🇩
 Name: Berita Satu
-URL: https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+URL: https://op-flashcon-digdayasd-1.dens.tv/h/h207/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 Logo: https://i.imgur.com/Nanq6nA.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
@@ -12991,7 +13006,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: BTV
-URL: https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8?app_type=web&userid=lite&chname=BTV
+URL: https://op-flashcon-digdayasd-1.dens.tv/h/h201/stream.m3u8
 Logo: https://i.imgur.com/h1q2r4l.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
@@ -20909,6 +20924,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: TRANS TV DK
 URL: https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: MDTV V+
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn2A9ip5ces3kmUiiTDhTh5C7obSlYdtsT3MPIgqtI33Gzn3YT28DGA0C9O0icpc-fLpwuFeJWdczQlVsYjTgtAK4dpbiIUZru-NliiyD7-BAK_uZ3IadFWM2mo0gaDXXvqcCn1rHSA7Ps0z_NVPJjSWszPox0EwWgtSH-fQiC0_9DAJbIJmxrTEi-1r5u/s700/MDTV.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: MDTV IP

@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-29 07:11:23",
+  "date": "2026-07-29 15:59:21",
   "channels": {
     "INDONESIA": [
       {
@@ -18450,6 +18450,20 @@
         "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8"
       },
       {
+        "name": "12. METRO TV (Dens)",
+        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png",
+        "group": "INDONESIA TV",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "12. METRO TV (Vidio)",
+        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png",
+        "group": "INDONESIA TV",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash"
+      },
+      {
         "name": "17. CNBC INDONESIA (FEED)",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png",
         "group": "INDONESIA TV",
@@ -18506,11 +18520,18 @@
         "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
       },
       {
-        "name": "13. MDTV (V+)",
+        "name": "13. MDTV (Dens)",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd"
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8"
+      },
+      {
+        "name": "13. MDTV (Trv)",
+        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png",
+        "group": "INDONESIA TV",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "http://202.150.161.212:5000/live/channel31/playlist.m3u8"
       },
       {
         "name": "50. BN TV (INTECH)",
@@ -23258,7 +23279,7 @@
         "logo": "https://i.imgur.com/Nanq6nA.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu"
+        "url": "https://op-flashcon-digdayasd-1.dens.tv/h/h207/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu"
       },
       {
         "name": "BN Channel",
@@ -23272,7 +23293,7 @@
         "logo": "https://i.imgur.com/h1q2r4l.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8?app_type=web&userid=lite&chname=BTV"
+        "url": "https://op-flashcon-digdayasd-1.dens.tv/h/h201/stream.m3u8"
       },
       {
         "name": "CNN Indonesia",
@@ -36518,6 +36539,13 @@
         "group": "TV BackUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8"
+      },
+      {
+        "name": "MDTV V+",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn2A9ip5ces3kmUiiTDhTh5C7obSlYdtsT3MPIgqtI33Gzn3YT28DGA0C9O0icpc-fLpwuFeJWdczQlVsYjTgtAK4dpbiIUZru-NliiyD7-BAK_uZ3IadFWM2mo0gaDXXvqcCn1rHSA7Ps0z_NVPJjSWszPox0EwWgtSH-fQiC0_9DAJbIJmxrTEi-1r5u/s700/MDTV.png",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd"
       },
       {
         "name": "MDTV IP",
