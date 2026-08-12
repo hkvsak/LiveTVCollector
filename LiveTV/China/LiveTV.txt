@@ -1,4 +1,9 @@
 Group: 4K频道
+Name: 苏州4K
+URL: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 河北4K
 URL: https://event.pull.hebtv.com:443/live/live101.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -230,6 +235,11 @@ URL: http://play.kankanlive.com/live/1711956137852982.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
+Name: Anhui TV
+URL: https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
 Name: Anshun Comprehensive News Channel
 URL: https://hplayer1.juyun.tv/camera/154379194.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -310,6 +320,11 @@ URL: http://198.204.240.250:82/live/cctv4k.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
+Name: CCTV-5+
+URL: https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
 Name: CCTV-6 (1080p)
 URL: http://69.30.245.50/live/cctv6.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -317,6 +332,11 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: CCTV-6 (1080p)
 URL: http://198.204.240.250:82/live/cctv6.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
+Name: CCTV-6 [Geo-blocked]
+URL: https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -372,11 +392,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: CCTV-13 (1080p)
 URL: http://go.bkpcp.top/mg/cctv13
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: CCTV-13 (1080p)
-URL: https://cdn3.163189.xyz/163189/cctv13
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -436,17 +451,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: CGTN (720p)
-URL: http://217.20.112.199:8080/cgtn/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: CGTN (720p)
 URL: https://0472.org/hls/cgtn.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: CGTN Documentary (1080p)
 URL: https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
+Name: CGTN French (1080p)
+URL: http://145.239.5.177/214/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -467,6 +482,11 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: CND Film Middle School Channel
 URL: http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
+Name: Dragon TV International
+URL: https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -500,8 +520,18 @@ URL: https://event.pull.hebtv.com/live/live101.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
+Name: Hebei TV
+URL: https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
 Name: Hunan TV (2160p)
 URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
+Name: Jiangsu Public & News Channel
+URL: https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -550,6 +580,16 @@ URL: https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
+Name: Lanzhou Comprehensive News Channel
+URL: https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
+Name: Lanzhou Culture & Tourism Channel
+URL: https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
 Name: Liangshan TV [Not 24/7]
 URL: http://118.122.2.29:9999/hls/47/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -575,8 +615,18 @@ URL: http://110.19.156.172:9901/tsfile/live/1003_1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
+Name: Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
+URL: http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
 Name: Nei Monggol TV 2 Mongolian Culture Channel
 URL: http://1.24.190.98:10080/hls/40/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
+Name: Qinghai TV
+URL: https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -610,16 +660,6 @@ URL: http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
-Name: Shaanxi Satelital TV
-URL: http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Shanghai Education Television Station
-URL: http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
 Name: Shenzhen Satellite TV (2160p)
 URL: https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -627,16 +667,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: Siping TV
 URL: http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: STV City
-URL: http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: STV News and General
-URL: http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -670,6 +700,11 @@ URL: http://222.80.13.33:4022/udp/238.125.3.175:5140
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
+Name: Xinjiang TV 2
+URL: https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+--------------------------------------------------
 Name: Xinjiang TV 3
 URL: http://110.153.180.106:55555/out_2/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -697,11 +732,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: Xizang TV Tibetan (720p) [Not 24/7]
 URL: http://php.jdshipin.com:8880/xztv.php?id=zy
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Zhejiang Satellite TV
-URL: https://play-qukan.cztv.com/live/1758879019692345.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -887,16 +917,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: 兵团卫视 (540p) [Not 24/7]
 URL: http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 内江公共 (720p)
-URL: http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 内江科教 (720p)
-URL: http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -1162,11 +1182,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: 四川 Ⅰ 达州综合台 (720p) [Not 24/7]
 URL: http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 四川公共 (720p)
-URL: http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -1625,11 +1640,6 @@ URL: http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227389/index.m
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
-Name: 房山电视台 (576p)
-URL: https://live.funhillrm.com/2/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
 Name: 抚州公共 (270p)
 URL: http://111.75.179.195:30767/video/live_vide2.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -1742,11 +1752,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: 晋中公共 (1080p) [Not 24/7]
 URL: http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 晋中综合 (1080p)
-URL: http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -2005,11 +2010,6 @@ URL: https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
-Name: 洪雅新闻综合 (1080p)
-URL: http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
 Name: 浙江 Ⅰ 绍兴影视 (720p)
 URL: http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -2227,21 +2227,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: 滁州科教 (450p)
 URL: http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 滨州公共电视剧 (576p)
-URL: http://stream.bzcm.net/1/sd/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 滨州新闻综合 (576p)
-URL: http://stream.bzcm.net/2/sd/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 滨州测试 (576p)
-URL: http://stream.bzcm.net/4/sd/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -2465,21 +2450,6 @@ URL: http://117.156.28.119/270000001111/1110000123/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
-Name: 芜湖公共 (576p)
-URL: http://live1.wuhubtv.com/channel3/sd/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 芜湖新闻综合 (576p)
-URL: http://live1.wuhubtv.com/channel1/sd/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 芜湖生活 (576p)
-URL: http://live1.wuhubtv.com/channel2/sd/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
 Name: 荣昌综合 (404p) [Not 24/7]
 URL: http://183.64.181.25:40023/rongchang01.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -2522,11 +2492,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: 蓬安新闻综合 (720p) [Not 24/7]
 URL: http://palive.patv123.com:8091/live/xwpd_800K.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: 蕪湖教育頻道 (576p)
-URL: http://live1.wuhubtv.com/channel4/sd/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -2795,11 +2760,6 @@ URL: http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
-Name: 青海卫视 (1080p)
-URL: http://live.geermurmt.com/qhws/sd/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
 Name: 青海卫视 (576p)
 URL: http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -2897,71 +2857,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
 Name: 黑龙江卫视 (2160p)
 URL: http://118.81.195.79:9003/hls/31/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Xinjiang TV 2
-URL: https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Xinjiang TV 1
-URL: https://p8.vzan.com/218800995/242196610130883766/live.m3u8?zbid=218800995&tpid=208366456
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: CGTN French (1080p)
-URL: http://145.239.5.177/214/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
-URL: http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Lanzhou Comprehensive News Channel
-URL: https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Lanzhou Culture & Tourism Channel
-URL: https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Qinghai TV
-URL: https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Jiangsu Public & News Channel
-URL: https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Anhui TV
-URL: https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Dragon TV International
-URL: https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: CCTV-6 [Geo-blocked]
-URL: https://live.eac-news.com/CCTV/streams/cctv6.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: Hebei TV
-URL: https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
---------------------------------------------------
-Name: CCTV-5+
-URL: https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --------------------------------------------------
@@ -3075,7 +2970,7 @@ URL: https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 2026-08-11 06:31:20
+Name: 2026-08-12 12:35:40
 URL: https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
@@ -3091,22 +2986,42 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV1
-URL: http://1.192.152.76:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/1/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV1
-URL: http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV1
-URL: http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8
+URL: http://110.72.61.221:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV1
-URL: http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+URL: http://111.9.163.109:55555/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV1
+URL: http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV10
+URL: http://183.185.66.248:9003/hls/11/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV10
+URL: http://58.19.43.66:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV10
+URL: http://61.161.61.119:9004/hls/12/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3116,22 +3031,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV10
-URL: http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/11/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV10
-URL: http://120.40.39.246:352/newlive/live/hls/11/live.m3u8
+Name: CCTV11
+URL: http://58.19.43.66:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV10
-URL: http://223.78.65.165:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+Name: CCTV11
+URL: http://183.185.66.248:9003/hls/12/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV10
-URL: http://58.56.162.102:4466/newlive/live/hls/11/live.m3u8
+Name: CCTV11
+URL: http://61.161.61.119:9004/hls/13/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3141,27 +3056,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV11
-URL: http://139.227.21.22:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV11
-URL: http://223.78.65.165:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV11
-URL: http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV11
-URL: http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/12/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV12
-URL: http://222.223.41.27:8888/hls/12/index.m3u8
+URL: http://139.227.21.22:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV12
+URL: http://58.19.43.66:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV12
+URL: http://183.185.66.248:9003/hls/13/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3171,17 +3081,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV12
-URL: http://219.147.245.238:25480/newlive/live/hls/13/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV12
-URL: http://118.122.144.115:8888/newlive/live/hls/13/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV12
-URL: http://58.56.162.102:4466/newlive/live/hls/13/live.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3191,22 +3091,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV13
-URL: http://1.24.39.180:9003/hls/13/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV13
-URL: http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV13
 URL: http://139.227.21.22:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV13
-URL: http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://119.39.9.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV13
+URL: http://58.19.43.66:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV13
+URL: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3216,22 +3116,37 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV14
+URL: http://58.19.43.66:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV14
+URL: http://183.185.66.248:9003/hls/15/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV14
 URL: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV14
-URL: http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8
+URL: http://111.8.242.142:9999/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV14
-URL: http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
+Name: CCTV15
+URL: http://139.227.21.22:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV14
-URL: http://221.226.51.220:50081/newlive/live/hls/15/live.m3u8
+Name: CCTV15
+URL: http://183.185.66.248:9003/hls/16/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV15
+URL: http://111.8.242.142:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3241,27 +3156,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV15
-URL: http://58.56.162.102:4466/newlive/live/hls/16/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV15
-URL: http://120.40.39.246:352/newlive/live/hls/16/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV15
-URL: http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV15
-URL: http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV16
-URL: http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV16
+URL: http://183.185.66.248:9003/hls/17/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3271,162 +3176,157 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV16
+URL: http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV16
 URL: http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV16
-URL: http://gmxw.7766.org:808/hls/169/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV16
-URL: http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8
+Name: CCTV17
+URL: http://58.19.43.66:1111/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV17
-URL: http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/18/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV17
-URL: http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.224.6:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV17
-URL: http://61.178.227.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.142:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV17
-URL: http://120.198.86.186:9901/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV17
-URL: http://110.6.137.4:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://27.39.122.2:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV2
-URL: http://1.192.152.76:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV2
-URL: http://124.234.172.108:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.9.163.109:55555/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV2
-URL: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+URL: http://110.72.61.221:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV2
-URL: http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV2
-URL: http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://27.15.4.131:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV3
-URL: http://1.192.152.76:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV3
-URL: http://121.57.88.206:898/hls/3/index.m3u8
+URL: http://183.185.66.248:9003/hls/3/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV3
-URL: http://219.147.245.238:25480/newlive/live/hls/3/live.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV3
-URL: http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.9.163.109:55555/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV3
-URL: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+URL: http://110.72.61.221:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV4
-URL: http://1.192.152.76:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV4
-URL: http://223.78.65.165:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV4
-URL: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+URL: http://111.9.163.109:55555/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV4
-URL: http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
+URL: http://110.72.61.221:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV4
-URL: http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV4K
-URL: http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5
-URL: http://1.192.152.76:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5
-URL: http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5
-URL: http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
+URL: http://112.30.73.119:229/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5
-URL: http://118.122.144.115:8888/newlive/live/hls/5/live.m3u8
+URL: http://111.9.163.109:55555/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5
-URL: http://219.147.245.238:25480/newlive/live/hls/5/live.m3u8
+URL: http://110.72.61.221:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5+
-URL: http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5+
-URL: http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/6/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5+
-URL: http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
+URL: http://61.161.61.119:9004/hls/7/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV5+
+URL: http://27.15.4.131:9901/tsfile/live/0016_2.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3435,8 +3335,23 @@ URL: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV5+
-URL: http://120.40.39.246:352/newlive/live/hls/6/live.m3u8
+Name: CCTV6
+URL: http://183.185.66.248:9003/hls/7/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV6
+URL: http://110.72.61.221:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV6
+URL: http://58.19.43.66:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV6
+URL: http://123.118.53.84:45237/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3445,23 +3360,13 @@ URL: http://112.30.73.119:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&aut
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV6
-URL: http://1.192.152.76:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+Name: CCTV7
+URL: http://58.19.43.66:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV6
-URL: http://223.78.65.165:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV6
-URL: http://124.234.172.108:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV6
-URL: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+Name: CCTV7
+URL: http://183.185.66.248:9003/hls/8/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3471,7 +3376,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV7
-URL: http://223.78.65.165:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://61.162.52.6:8088/newlive/live/hls/8/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3480,23 +3385,8 @@ URL: http://58.56.162.102:4466/newlive/live/hls/8/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV7
-URL: http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV7
-URL: http://221.226.51.220:50081/newlive/live/hls/8/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: CCTV8
-URL: http://112.30.73.119:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV8
-URL: http://112.30.73.119:229/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/9/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3506,17 +3396,32 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV8
-URL: http://120.40.39.246:352/newlive/live/hls/9/live.m3u8
+URL: http://61.161.61.119:9004/hls/10/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV8
-URL: http://219.147.245.238:25480/newlive/live/hls/9/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/9/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV8
+URL: http://58.56.162.102:4466/newlive/live/hls/9/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV9
-URL: http://223.78.65.165:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/10/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV9
+URL: http://58.19.43.66:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV9
+URL: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3526,17 +3431,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV9
-URL: http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV9
-URL: http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: CCTV9
-URL: http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/10/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3576,12 +3471,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CGTN俄语
-URL: http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+URL: https://0472.org/hls/cgtne.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CGTN俄语
-URL: https://0472.org/hls/cgtne.m3u8
+URL: http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3616,17 +3511,52 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CHC动作电影
-URL: http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CHC动作电影
-URL: http://119.166.53.110:9901/tsfile/live/0002_68.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/41/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CHC动作电影
+URL: http://27.39.122.2:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CHC动作电影
+URL: http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CHC动作电影
+URL: http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CHC家庭影院
+URL: http://58.19.43.66:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CHC家庭影院
 URL: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CHC家庭影院
+URL: http://113.57.20.185:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CHC家庭影院
+URL: http://139.213.147.19:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CHC家庭影院
+URL: http://171.8.86.73:8009/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3670,8 +3600,13 @@ URL: http://119.166.53.110:9901/tsfile/live/0002_60.m3u8?key=txiptv&playlive=1&a
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 上海卫视
-URL: http://112.27.235.94:8000/hls/28/index.m3u8
+Name: 三沙卫视
+URL: http://39.164.143.66:13994/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 三沙卫视
+URL: http://139.213.147.19:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3726,17 +3661,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东南卫视
-URL: http://223.78.65.165:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/24/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东南卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/20/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/20/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东方卫视
-URL: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+URL: http://139.227.21.22:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3746,17 +3681,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东方卫视
-URL: http://221.7.175.154:8445/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东方卫视
-URL: http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
+URL: http://183.185.66.248:9003/hls/23/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东方卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/29/live.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3826,17 +3761,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 云南卫视
-URL: http://182.150.23.74:808/hls/29/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 云南卫视
-URL: http://120.237.39.10:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 云南卫视
-URL: http://1.192.152.76:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3846,7 +3771,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 云南卫视
-URL: http://120.198.86.186:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.104:8088/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 云南卫视
+URL: http://111.8.224.6:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 云南卫视
+URL: http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3881,17 +3816,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 云霄综合
-URL: http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+URL: http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 云霄综合
-URL: http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
+URL: http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 井研综合
 URL: http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 亳州农村
+URL: http://zbbf2.ahbztv.com/live/418.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3960,6 +3900,21 @@ URL: http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 优漫卡通
+URL: http://39.164.143.66:13994/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 优漫卡通
+URL: http://144.52.161.112:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 优漫卡通
+URL: http://175.0.69.253:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 余姚姚江文化
 URL: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -3971,12 +3926,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 余姚新闻综合
-URL: http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
+URL: http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 余姚新闻综合
-URL: http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+URL: http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4041,12 +3996,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 兵器科技
-URL: https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+URL: https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 兵器科技
-URL: https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+URL: https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4066,27 +4021,42 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 兵团卫视
-URL: http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+URL: http://61.161.61.119:9004/hls/42/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 兵团卫视
-URL: http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://110.72.61.221:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 兵团卫视
-URL: http://120.198.86.186:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.127:9999/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 兵团卫视
-URL: http://61.178.227.57:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.142:9999/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 兵团卫视
-URL: http://110.6.137.4:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 内蒙古卫视
+URL: http://183.185.66.248:9003/hls/39/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 内蒙古卫视
+URL: http://112.123.243.37:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 内蒙古卫视
+URL: http://61.161.61.119:9004/hls/39/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4096,32 +4066,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 内蒙古卫视
-URL: http://123.118.55.165:45237/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 内蒙古卫视
-URL: http://123.118.53.84:45237/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 内蒙古卫视
-URL: http://1.192.152.76:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 内蒙古卫视
-URL: http://120.198.86.186:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.142:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 农林卫视
-URL: http://112.234.22.221:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://110.72.61.221:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 农林卫视
 URL: http://119.166.53.110:9901/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 农林卫视
+URL: http://39.164.143.66:13994/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 农林卫视
+URL: http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4140,8 +4105,13 @@ URL: https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 北京卫视
-URL: http://222.169.85.8:9901/tsfile/live/0017_1.m3u8
+Name: 动漫秀场
+URL: http://139.213.147.19:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 动漫秀场
+URL: http://61.161.61.119:9004/hls/84/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4151,17 +4121,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 北京卫视
-URL: http://61.178.227.57:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/20/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 北京卫视
-URL: http://120.237.39.10:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&down=1
+URL: http://110.72.61.221:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 北京卫视
-URL: http://1.192.152.76:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://36.136.38.87:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 北京卫视
+URL: http://61.161.61.119:9004/hls/30/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4205,6 +4180,21 @@ URL: http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&dow
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 南方卫视
+URL: http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 南方卫视
+URL: http://183.234.143.5:9902/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 卡酷少儿
+URL: http://58.19.43.66:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 卡酷少儿
 URL: http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -4215,8 +4205,18 @@ URL: http://120.198.86.186:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&au
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 卡酷少儿
+URL: http://39.164.143.66:13994/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 卡酷少儿
+URL: http://112.99.195.122:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 厦门卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4226,17 +4226,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 厦门卫视
-URL: http://118.122.144.115:8888/newlive/live/hls/28/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 厦门卫视
-URL: http://120.40.39.246:352/newlive/live/hls/28/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/28/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 厦门卫视
 URL: http://58.56.162.102:4466/newlive/live/hls/28/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 厦门卫视
+URL: http://120.40.39.246:352/newlive/live/hls/28/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4286,32 +4286,37 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 吉林卫视
-URL: http://123.130.84.106:8154/tsfile/live/0116_1.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 吉林卫视
-URL: http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 吉林卫视
-URL: http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 吉林卫视
 URL: http://139.227.21.22:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 吉林卫视
-URL: http://124.234.172.108:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 吉林卫视
+URL: http://183.185.66.248:9003/hls/34/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 吉林卫视
+URL: http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 吉林卫视
+URL: http://61.161.61.119:9004/hls/31/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 名山综合
 URL: https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 哈哈炫动
+URL: http://116.228.170.214:9003/hls/48/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4361,27 +4366,32 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 四川卫视
-URL: http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 四川卫视
-URL: http://221.7.175.154:8445/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://61.161.61.119:9004/hls/52/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 四川卫视
-URL: http://123.118.55.165:45237/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 四川卫视
-URL: http://123.118.53.84:45237/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://139.227.21.22:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 四川卫视
-URL: http://120.237.39.10:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
+URL: http://110.72.61.221:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 四川科教
+URL: http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4406,37 +4416,37 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 大湾区卫视
-URL: http://222.128.55.152:9080/live/dwq.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 大湾区卫视
 URL: http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 天津卫视
-URL: http://223.78.65.165:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+Name: 大湾区卫视
+URL: http://222.128.55.152:9080/live/dwq.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 天津卫视
-URL: http://61.136.172.236:9901/tsfile/live/0135_1.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 天津卫视
-URL: http://124.234.172.108:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 天津卫视
-URL: http://123.118.53.84:45237/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://61.161.61.119:9004/hls/55/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 天津卫视
-URL: http://123.118.55.165:45237/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://27.15.4.131:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 天津卫视
+URL: http://120.237.39.10:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&down=1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4446,12 +4456,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 太谷新闻综合
-URL: https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+URL: https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 太谷新闻综合
-URL: https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
+URL: https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4471,27 +4481,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 宁夏卫视
+URL: http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 宁夏卫视
+URL: http://183.185.66.248:9003/hls/40/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 宁夏卫视
+URL: http://61.161.61.119:9004/hls/50/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 宁夏卫视
 URL: http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 宁夏卫视
-URL: http://123.118.55.165:45237/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 宁夏卫视
-URL: http://123.118.53.84:45237/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 宁夏卫视
-URL: http://120.198.86.186:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 宁夏卫视
-URL: http://1.192.152.76:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.142:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4500,28 +4510,33 @@ URL: https://liveout.xntv.tv/a65jur/96iln2.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 安徽卫视
-URL: http://223.78.65.165:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+Name: 安多卫视
+URL: http://39.164.143.66:13994/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 安徽卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/40/live.m3u8
+URL: http://139.227.21.22:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 安徽卫视
-URL: http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 安徽卫视
-URL: http://118.122.144.115:8888/newlive/live/hls/40/live.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 安徽卫视
-URL: http://221.7.175.154:8445/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://36.136.38.87:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 安徽卫视
+URL: http://183.185.66.248:9003/hls/21/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4551,7 +4566,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 山东卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/35/live.m3u8
+URL: http://139.227.21.22:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4561,17 +4576,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 山东卫视
-URL: http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
+URL: http://223.78.65.165:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 山东卫视
-URL: http://118.122.144.115:8888/newlive/live/hls/35/live.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 山东卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/35/live.m3u8
+URL: http://61.161.61.119:9004/hls/38/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4602,6 +4617,16 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 山西卫视
 URL: https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 岭南戏曲
+URL: http://120.238.84.45:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 岭南戏曲
+URL: http://183.234.143.5:9902/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4645,18 +4670,18 @@ URL: http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 平遥新闻综合
+URL: https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 广东体育
 URL: https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东体育
-URL: http://120.237.39.10:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 广东体育
-URL: http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4666,32 +4691,37 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东体育
-URL: http://r.jdshipin.com/LiYdg
+URL: http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东体育
+URL: http://120.198.95.220:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+URL: http://139.227.21.22:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: http://223.78.65.165:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
+URL: http://183.185.66.248:9003/hls/26/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/34/live.m3u8
+URL: http://61.161.61.119:9004/hls/57/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: http://120.40.39.246:352/newlive/live/hls/34/live.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4700,8 +4730,28 @@ URL: http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&au
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 广东少儿
+URL: http://183.234.143.5:9902/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东少儿
+URL: http://183.234.143.5:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 广东影视
 URL: http://120.198.86.186:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东影视
+URL: http://183.234.143.5:9902/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东民生
+URL: http://183.234.143.5:9902/tsfile/live/1062_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4711,7 +4761,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东珠江
+URL: http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东珠江
 URL: http://120.237.39.10:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东珠江
+URL: http://120.196.235.42:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东珠江
+URL: http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广东珠江
+URL: http://183.234.143.5:5555/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4746,12 +4816,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广州综合
-URL: http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+URL: https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广州综合
-URL: https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+URL: http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4766,27 +4836,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广西卫视
+URL: http://58.19.43.66:1111/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广西卫视
 URL: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广西卫视
-URL: http://182.150.23.74:808/hls/31/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 广西卫视
-URL: http://221.7.175.154:8445/tsfile/live/0113_2.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 广西卫视
-URL: http://120.237.39.10:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&down=1
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 广西卫视
 URL: http://139.227.21.22:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广西卫视
+URL: http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广西卫视
+URL: http://110.72.61.221:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4810,8 +4880,18 @@ URL: http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 康巴卫视
+URL: http://39.164.143.66:13994/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 延边2
 URL: http://stream5.jlntv.cn/wq/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 延边卫视
+URL: https://srs.iyb983.cn:443/video/CYS/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4826,12 +4906,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 延边卫视
-URL: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+URL: http://gmxw.7766.org:808/hls/15/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 延边卫视
-URL: http://gmxw.7766.org:808/hls/15/index.m3u8
+URL: http://139.213.147.19:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4841,12 +4921,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 开化国家公园
-URL: http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+URL: http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 开化国家公园
-URL: http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+URL: http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4921,12 +5001,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 文成综合
-URL: http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?
+URL: http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 文成综合
-URL: http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+URL: http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4946,27 +5026,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 新疆卫视
-URL: http://1.192.152.76:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://61.161.61.119:9004/hls/61/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 新疆卫视
-URL: http://123.118.55.165:45237/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 新疆卫视
-URL: http://123.118.53.84:45237/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.142:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 新疆卫视
-URL: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+URL: http://111.8.224.6:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 新疆卫视
-URL: http://120.198.86.186:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.127:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4976,12 +5056,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 新野综合
-URL: http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
+URL: http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 新野综合
-URL: http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+URL: http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4996,17 +5076,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 无锡娱乐
-URL: http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 无锡娱乐
 URL: http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 无锡娱乐
 URL: http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 无锡娱乐
+URL: http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5021,17 +5101,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 无锡新闻综合
-URL: http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 无锡新闻综合
 URL: http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 无锡新闻综合
 URL: http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 无锡新闻综合
+URL: http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5081,12 +5161,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 无锡都市资讯
-URL: http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+URL: http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 无锡都市资讯
-URL: http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
+URL: http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5205,6 +5285,11 @@ URL: https://ls.qingting.fm/live/20198/64k.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 武进生活
+URL: http://live.wjyanghu.com/live/CH2.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 永嘉新闻综合
 URL: http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -5231,52 +5316,52 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江苏卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/31/live.m3u8
+URL: http://139.227.21.22:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江苏卫视
-URL: http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江苏卫视
-URL: http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江苏卫视
-URL: http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江苏卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
+URL: http://110.72.61.221:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江西卫视
-URL: http://61.136.172.236:9901/tsfile/live/0138_1.m3u8
+URL: http://183.185.66.248:9003/hls/36/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江西卫视
-URL: http://221.7.175.154:8445/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://110.72.61.221:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江西卫视
-URL: http://120.237.39.10:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&down=1
+URL: http://112.123.243.37:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江西卫视
-URL: http://123.118.53.84:45237/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://36.136.38.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江西卫视
-URL: http://1.192.152.76:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.104:8088/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5296,12 +5381,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 汶川新闻综合
-URL: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
+URL: http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 汶川新闻综合
-URL: http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+URL: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5316,6 +5401,11 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河北农民
+URL: https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 河北农民
 URL: https://ls.qingting.fm/live/1650/64k.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
@@ -5325,18 +5415,13 @@ URL: http://ls.qingting.fm/live/1650.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 河北农民
-URL: https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+Name: 河北卫视
+URL: http://139.227.21.22:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河北卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/33/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 河北卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/33/live.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5346,12 +5431,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河北卫视
-URL: http://120.40.39.246:352/newlive/live/hls/33/live.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河北卫视
-URL: http://118.122.144.115:8888/newlive/live/hls/33/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/33/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5361,27 +5446,37 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河南卫视
-URL: http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河南卫视
-URL: http://182.150.23.74:808/hls/33/index.m3u8
+URL: http://36.136.38.87:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河南卫视
-URL: http://123.130.84.106:8154/tsfile/live/0139_1.m3u8
+URL: http://183.185.66.248:9003/hls/30/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河南卫视
-URL: http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
+URL: http://61.161.61.119:9004/hls/58/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河南卫视
 URL: http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 河源公共
+URL: http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 河源综合
+URL: http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5396,7 +5491,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 泸县新闻综合
-URL: http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+URL: http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5406,7 +5501,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 泸县新闻综合
-URL: http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+URL: http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5446,7 +5541,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江卫视
-URL: http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+URL: http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5456,7 +5551,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江卫视
-URL: http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+URL: http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5471,17 +5566,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江国际
-URL: https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 浙江国际
 URL: http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江国际
 URL: http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 浙江国际
+URL: https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5496,17 +5591,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江少儿
-URL: https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+URL: http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江少儿
-URL: http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+URL: https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江教科
 URL: http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 浙江教科影视
+URL: http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 浙江教科影视
+URL: http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5517,16 +5622,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 浙江教科影视
 URL: http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 浙江教科影视
-URL: http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 浙江教科影视
-URL: http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5561,12 +5656,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江新闻
-URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+URL: http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江新闻
-URL: http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5576,12 +5671,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江民生
-URL: https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 浙江民生
-URL: http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+URL: http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5591,7 +5681,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江民生
-URL: http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+URL: http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 浙江民生
+URL: https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5611,17 +5706,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江经济
-URL: http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 浙江经济
 URL: http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江经济
 URL: https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 浙江经济
+URL: http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 浙江经济生活
+URL: http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5632,11 +5732,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 浙江经济生活
 URL: http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 浙江经济生活
-URL: http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5661,12 +5756,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江钱江都市
-URL: http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+URL: http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 浙江钱江都市
-URL: http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+URL: http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5676,27 +5771,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 海南卫视
-URL: http://124.234.172.108:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 海南卫视
-URL: http://112.234.22.221:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://183.185.66.248:9003/hls/38/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 海南卫视
-URL: http://183.11.239.36:808/hls/124/index.m3u8
+URL: http://121.19.134.101:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 海南卫视
-URL: http://cssbyd.imwork.net:8082/hls/31/index.m3u8
+URL: http://183.234.143.5:9902/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 海南卫视
-URL: http://110.6.137.4:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://175.0.69.253:9002/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5716,12 +5811,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 海峡卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
+URL: http://61.162.52.6:8088/newlive/live/hls/27/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 海峡卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8
+URL: http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5761,12 +5856,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 深圳卫视
-URL: http://120.40.39.246:352/newlive/live/hls/37/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 深圳卫视
-URL: http://223.78.65.165:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://139.227.21.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5776,12 +5866,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 深圳卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/37/live.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 深圳卫视
-URL: http://139.227.21.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://61.161.61.119:9004/hls/37/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 深圳卫视
+URL: http://58.56.162.102:4466/newlive/live/hls/37/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5796,32 +5891,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 湖北卫视
+URL: http://139.227.21.22:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 湖北卫视
+URL: http://58.19.43.66:1111/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 湖北卫视
+URL: http://183.185.66.248:9003/hls/32/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 湖北卫视
+URL: http://110.72.61.221:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 湖北卫视
 URL: http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 湖北卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 湖北卫视
-URL: http://58.56.162.102:4466/newlive/live/hls/36/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 湖北卫视
-URL: http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 湖北卫视
-URL: http://118.122.144.115:8888/newlive/live/hls/36/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 湖南卫视
-URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5831,12 +5921,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 湖南卫视
-URL: http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+URL: http://139.227.21.22:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 湖南卫视
-URL: http://113.57.140.161:10081/newlive/live/hls/30/live.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 湖南卫视
+URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5926,27 +6021,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 甘肃卫视
+URL: http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 甘肃卫视
+URL: http://183.185.66.248:9003/hls/25/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 甘肃卫视
 URL: http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 甘肃卫视
-URL: http://61.178.227.57:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://119.39.9.8:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 甘肃卫视
-URL: http://120.198.86.186:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 甘肃卫视
-URL: http://110.6.137.4:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 甘肃卫视
-URL: http://110.80.17.38:9999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+URL: http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6106,17 +6201,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 精品体育
-URL: https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 精品体育
 URL: https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 精品体育
+URL: https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 纬来体育
-URL: https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+URL: https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6126,7 +6221,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 纬来体育
-URL: https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+URL: https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6141,12 +6236,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 经济科教
+URL: http://120.237.39.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 经济科教
+URL: http://120.198.95.220:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 经济科教
 URL: http://120.237.39.10:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&down=1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 经济科教
-URL: http://120.237.39.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+URL: http://120.198.95.220:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&down=1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6156,12 +6261,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 缙云综合
-URL: http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+URL: http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 缙云综合
-URL: http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
+URL: http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6316,7 +6421,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 西藏卫视
-URL: http://183.11.239.36:808/hls/64/index.m3u8
+URL: http://61.161.61.119:9004/hls/49/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6326,17 +6431,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 西藏卫视
-URL: http://123.118.53.84:45237/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 西藏卫视
-URL: http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://120.238.84.45:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 西藏卫视
-URL: http://110.6.137.4:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://120.196.235.42:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6366,27 +6471,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 贵州卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/39/live.m3u8
+URL: http://58.19.43.66:1111/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 贵州卫视
+URL: http://112.123.243.37:50085/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 贵州卫视
+URL: http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 贵州卫视
+URL: http://61.161.61.119:9004/hls/47/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 贵州卫视
 URL: http://58.56.162.102:4466/newlive/live/hls/39/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 贵州卫视
-URL: http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 贵州卫视
-URL: http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 贵州卫视
-URL: http://223.78.65.165:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6401,27 +6506,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 辽宁卫视
-URL: http://223.78.65.165:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 辽宁卫视
-URL: http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
+URL: http://139.227.21.22:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 辽宁卫视
-URL: http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://36.136.38.87:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 辽宁卫视
-URL: http://123.118.55.165:45237/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://112.123.243.37:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 辽宁卫视
-URL: http://124.234.172.108:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://61.161.61.119:9004/hls/32/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6486,27 +6591,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
+URL: http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
+URL: http://183.185.66.248:9003/hls/22/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://58.19.43.66:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://120.237.39.10:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
+URL: http://110.72.61.221:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://119.39.9.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6526,12 +6631,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 金鹰卡通
-URL: http://221.7.175.154:8445/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.104:8088/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 金鹰卡通
-URL: http://1.192.152.76:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.224.6:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 金鹰卡通
+URL: http://111.8.242.127:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6541,12 +6651,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 金鹰卡通
-URL: http://125.43.240.140:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 金鹰卡通
-URL: http://120.198.86.186:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.142:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6631,27 +6736,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 青海卫视
-URL: http://123.118.55.165:45237/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.142:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 青海卫视
-URL: http://123.118.53.84:45237/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.104:8088/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 青海卫视
-URL: http://120.198.86.186:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://111.8.242.127:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 青海卫视
-URL: http://112.234.22.221:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+URL: http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 青海卫视
-URL: http://120.7.86.96:808/hls/38/index.m3u8
+URL: http://111.8.224.6:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6731,7 +6836,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 黄山新闻综合
-URL: http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
+URL: http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 黑龙江卫视
+URL: http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 黑龙江卫视
+URL: http://183.185.66.248:9003/hls/31/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6741,22 +6856,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 黑龙江卫视
-URL: http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
+URL: http://61.161.61.119:9004/hls/33/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 黑龙江卫视
-URL: http://120.40.39.246:352/newlive/live/hls/38/live.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 黑龙江卫视
-URL: http://218.13.170.98:9901/tsfile/live/1006_1.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 黑龙江卫视
-URL: http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
+URL: http://58.56.162.102:4466/newlive/live/hls/38/live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -8492,16 +8597,6 @@ Name: 乌兰察布新闻
 URL: https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 Logo: https://live.fanmingming.cn/tv/乌兰察布.png
 Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
---------------------------------------------------
-Name: 平遥新闻综合
-URL: https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 睢宁综合
-URL: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 赣州新闻
 URL: https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
