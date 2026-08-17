@@ -5678,19 +5678,19 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDQ6NTc6MjggQU0maGFzaF92YWx1ZT1ENGk5NmVRUjVZVHRPZDRRcEtxWCtRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWE2ZjM1ZTgtZWU4ZS00Mzk1LWEwOGQtNDliMmI1N2Y2OTE1/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDg6NDQ6NCBQTSZoYXNoX3ZhbHVlPXNydG5MNlJHRmIrRDhuNG1xK0I1VWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNGM5OGJhOS0xMzQwLTQ2ZTYtODViZC01NTNjMjI4NmJiODE=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?wowzasessionid=@iprtlk",
+    "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDQ6NTc6MjcgQU0maGFzaF92YWx1ZT1hb2c1S1RLN1dNZFFpbWZwWTdGVklRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTUwYTQ3YjAtZTk3MS00YTFhLTlkNDAtNWViNWU5MzhmODY4/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDg6NDQ6MyBQTSZoYXNoX3ZhbHVlPWlYc2tIT0ZRS1lETjFvNy9hWENlbWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wY2EwNWZjNC0zNzAxLTRjZWEtOGJiMi04ZDEzOWM2NGE0Y2Y=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -5708,7 +5708,7 @@
   {
     "name": "Record Internacional 🇧🇷",
     "type": "Portugal 🇵🇹",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-dash/rederecordinternacional.mpd",
+    "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152?RecordInteriorBR",
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/recordtv.webp"
   },
   {
@@ -5768,13 +5768,13 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk",
+    "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8",
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png"
   },
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDQ6NTc6MjggQU0maGFzaF92YWx1ZT1JYy9WclpWYmdyeGhYQU1ubWxTTml3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDFhNzJmMGYtZmExNC00YzdiLWIyYjQtYzI2OWU3MDgzYjQ3/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI2IDg6NDQ6NCBQTSZoYXNoX3ZhbHVlPWhhKzBqZWZQSmFaV1pwVjMzL1kyL2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hYTE0ODkwYy1mZDM1LTRkNzctYmIxOC04OWRmODI1YjdjNmQ=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
