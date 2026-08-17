@@ -60,7 +60,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=169
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/32.png" group-title="HTV",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/33.png" group-title="HTV",HTV2
-https://kupjta.online/iptv/2/vie-channel-htv2-hd/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/34.png" group-title="HTV",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/35.png" group-title="HTV",HTV Key
@@ -68,11 +68,11 @@ https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/85.png" group-title="HTV",HTV5 Bchannel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/36.png" group-title="HTV",HTV7
-https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/37.png" group-title="HTV",HTV9
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/38.png" group-title="HTV",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/43.png" group-title="HTVC",HTVC Ca Nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/44.png" group-title="HTVC",HTVC Du Lịch và Cuộc Sống
@@ -222,11 +222,11 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTVybK6.png" group-title="THVL",THVL1
 https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsHdGNZ.png" group-title="THVL",THVL2
-https://live.fptplay53.net/epzhd2/vinhlong2_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/44c1Yoz.png" group-title="THVL",THVL3
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWDsJxB.png" group-title="THVL",THVL4
-https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/175.png" group-title="THVL",THVL5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Quốc tế",Da Vinci
