@@ -196,7 +196,7 @@ Logo: https://vnepg.site/logos/32.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: HTV2
-URL: https://freem3u.xyz/api/live/play.m3u8?vid=191
+URL: https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
 Logo: https://vnepg.site/logos/33.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -736,7 +736,7 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 
 Group: VTVcab HD
 Name: ON Vie Giải Trí
-URL: https://freem3u.xyz/api/live/play.m3u8?vid=180
+URL: https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 Logo: https://vnepg.site/logos/12.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -791,7 +791,7 @@ Logo: https://vnepg.site/logos/25.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Vie DRAMAS
-URL: https://freem3u.xyz/api/live/play.m3u8?vid=177
+URL: https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 Logo: https://vnepg.site/logos/27.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -811,7 +811,7 @@ Logo: https://vnepg.site/logos/30.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Golf
-URL: https://freem3u.xyz/api/live/play.m3u8?vid=169
+URL: https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 Logo: https://vnepg.site/logos/31.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -993,12 +993,12 @@ Logo: https://i.imgur.com/4yIgKKx.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: THP | TH Hải Phòng
-URL: https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+URL: https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
 Logo: https://i.imgur.com/iq9JLb9.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: THP3 | TH Hải Phòng 3
-URL: https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+URL: https://freem3u.xyz/api/live/play.m3u8?vid=59
 Logo: https://i.imgur.com/iq9JLb9.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------

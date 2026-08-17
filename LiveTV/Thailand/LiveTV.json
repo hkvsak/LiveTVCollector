@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-17 05:57:49",
+  "date": "2026-08-17 13:57:22",
   "channels": {
     "VTV": [
       {
@@ -100,7 +100,7 @@
         "logo": "https://vnepg.site/logos/12.png",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180"
+        "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd"
       },
       {
         "name": "ON Phim Việt",
@@ -177,7 +177,7 @@
         "logo": "https://vnepg.site/logos/27.png",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+        "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd"
       },
       {
         "name": "ON VFamily",
@@ -205,7 +205,7 @@
         "logo": "https://vnepg.site/logos/31.png",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=169"
+        "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel"
       }
     ],
     "HTV": [
@@ -221,7 +221,7 @@
         "logo": "https://vnepg.site/logos/33.png",
         "group": "HTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=191"
+        "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd"
       },
       {
         "name": "HTV3",
@@ -705,14 +705,14 @@
         "logo": "https://i.imgur.com/iq9JLb9.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8"
+        "url": "https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8"
       },
       {
         "name": "THP3 | TH Hải Phòng 3",
         "logo": "https://i.imgur.com/iq9JLb9.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=59"
       },
       {
         "name": "PTV | TH Phú Thọ",
