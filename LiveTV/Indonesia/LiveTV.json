@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21 06:10:42",
+  "date": "2026-08-21 13:56:21",
   "channels": {
     "INDONESIA": [
       {
@@ -17860,7 +17860,7 @@
         "url": "http://tvratu.my.id/nissa/index.mpd?id=205&type=dash"
       },
       {
-        "name": "03. INDOSIAR CBM",
+        "name": "03. INDOSIAR A",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
