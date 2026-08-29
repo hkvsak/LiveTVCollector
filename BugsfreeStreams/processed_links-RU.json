@@ -20,7 +20,7 @@
     "is_active": true
   },
   "http://31.130.16.62:4022/udp/239.1.12.8:1234": {
-    "last_checked": 1787903876.9191465,
+    "last_checked": 1787978913.987835,
     "is_active": false
   },
   "https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NjQyMTk5OSwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1ODE3MTk5LCJzZXNzaW9uX2lkIjoiYjBmMDZlNmIyN2IwMDI2YTg1ODQ5Y2UwYmU1ODhiM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oWjtAhAIKUtkUUAqCvrgD5WEAhlkAMi6muPoM0OI_i4": {
@@ -108,7 +108,7 @@
     "is_active": false
   },
   "http://195.18.23.20:8000/play/3/index.m3u8": {
-    "last_checked": 1787903925.9871216,
+    "last_checked": 1787978958.9920278,
     "is_active": false
   },
   "https://jekalich.github.io/smtk/channels/kinopokaz-hd.m3u8": {
@@ -164,7 +164,7 @@
     "is_active": false
   },
   "http://62.233.57.226:8001/play/a00c": {
-    "last_checked": 1787903878.1648095,
+    "last_checked": 1787978914.2822638,
     "is_active": false
   },
   "https://jekalich.github.io/smtk/channels/pro-lyubov.m3u8": {
@@ -256,7 +256,7 @@
     "is_active": false
   },
   "http://178.212.71.253:8000/play/90/index.m3u8": {
-    "last_checked": 1787903920.3157074,
+    "last_checked": 1787978955.3968174,
     "is_active": false
   },
   "http://178.212.71.253:8000/play/49/index.m3u8": {
@@ -348,7 +348,7 @@
     "is_active": false
   },
   "https://hls.goodgame.ru/hls/187241.m3u8": {
-    "last_checked": 1787903884.394913,
+    "last_checked": 1787978919.4656954,
     "is_active": false
   },
   "http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/124": {
@@ -3996,47 +3996,47 @@
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8": {
-    "last_checked": 1787903876.9030812,
+    "last_checked": 1787978914.0013635,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8": {
-    "last_checked": 1787903876.905139,
+    "last_checked": 1787978913.993207,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8": {
-    "last_checked": 1787903876.9080799,
+    "last_checked": 1787978913.992719,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8": {
-    "last_checked": 1787903876.9093418,
+    "last_checked": 1787978914.0053928,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/vip_serial/2/index.m3u8": {
-    "last_checked": 1787903876.9191413,
+    "last_checked": 1787978913.9878294,
     "is_active": false
   },
   "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kino_TV_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903876.9191506,
+    "last_checked": 1787978913.9878385,
     "is_active": false
   },
   "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bollywood.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903876.9191537,
+    "last_checked": 1787978913.9878445,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8": {
-    "last_checked": 1787903876.9218156,
+    "last_checked": 1787978913.9982724,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8": {
-    "last_checked": 1787903876.9232483,
+    "last_checked": 1787978913.975387,
     "is_active": false
   },
   "http://31.210.208.171:8080/kinohit/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903876.9232538,
+    "last_checked": 1787978913.9878492,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8": {
-    "last_checked": 1787903876.9240975,
+    "last_checked": 1787978913.995566,
     "is_active": false
   },
   "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8": {
@@ -4044,15 +4044,15 @@
     "is_active": true
   },
   "http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8": {
-    "last_checked": 1787903877.300163,
+    "last_checked": 1787978914.3860064,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/kinoklub/2/index.m3u8": {
-    "last_checked": 1787903877.5565128,
+    "last_checked": 1787978914.2822566,
     "is_active": false
   },
   "https://s70378.cdn.ngenix.net/nashe_novoe_kino/2/index.m3u8": {
-    "last_checked": 1787903877.8128154,
+    "last_checked": 1787978914.2867224,
     "is_active": false
   },
   "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8": {
@@ -4076,39 +4076,39 @@
     "is_active": true
   },
   "http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0730195,
+    "last_checked": 1787978914.0013707,
     "is_active": false
   },
   "http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.099399,
+    "last_checked": 1787978914.001374,
     "is_active": false
   },
   "https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0994017,
+    "last_checked": 1787978914.001377,
     "is_active": false
   },
   "http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0994043,
+    "last_checked": 1787978914.0013804,
     "is_active": false
   },
   "https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0994065,
+    "last_checked": 1787978914.001383,
     "is_active": false
   },
   "https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0994089,
+    "last_checked": 1787978914.0013852,
     "is_active": false
   },
   "http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0994112,
+    "last_checked": 1787978914.0013876,
     "is_active": false
   },
   "http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0994134,
+    "last_checked": 1787978914.0013897,
     "is_active": false
   },
   "http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.0994163,
+    "last_checked": 1787978914.0013921,
     "is_active": false
   },
   "https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8": {
@@ -4128,23 +4128,23 @@
     "is_active": true
   },
   "http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.682356,
+    "last_checked": 1787978914.28673,
     "is_active": false
   },
   "http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.6823595,
+    "last_checked": 1787978914.2867346,
     "is_active": false
   },
   "http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.682362,
+    "last_checked": 1787978914.2867384,
     "is_active": false
   },
   "https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.6823652,
+    "last_checked": 1787978914.2867417,
     "is_active": false
   },
   "http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903878.682368,
+    "last_checked": 1787978914.2867448,
     "is_active": false
   },
   "https://jekalich.github.io/smtk/channels/feniks-plus-kino.m3u8": {
@@ -4156,23 +4156,23 @@
     "is_active": true
   },
   "https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8": {
-    "last_checked": 1787903881.9572484,
+    "last_checked": 1787978917.9287732,
     "is_active": false
   },
   "http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903883.4563003,
+    "last_checked": 1787978914.3860118,
     "is_active": false
   },
   "http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903883.4563031,
+    "last_checked": 1787978914.386015,
     "is_active": false
   },
   "http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903883.456307,
+    "last_checked": 1787978914.3860178,
     "is_active": false
   },
   "http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903883.4563098,
+    "last_checked": 1787978914.386021,
     "is_active": false
   },
   "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8": {
@@ -4180,11 +4180,11 @@
     "is_active": true
   },
   "https://tinyurl.com/29vbwawm": {
-    "last_checked": 1787903883.593017,
+    "last_checked": 1787978917.9287786,
     "is_active": false
   },
   "http://185.78.112.47:8077/kinomix/index.m3u8": {
-    "last_checked": 1787903883.9321952,
+    "last_checked": 1787978920.995639,
     "is_active": false
   },
   "https://jekalich.github.io/smtk/channels/trashtv.m3u8": {
@@ -4192,11 +4192,11 @@
     "is_active": true
   },
   "http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8": {
-    "last_checked": 1787903884.1921346,
+    "last_checked": 1787978920.9970727,
     "is_active": false
   },
   "http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903884.3949187,
+    "last_checked": 1787978920.9970772,
     "is_active": false
   },
   "http://62.32.84.50:18000/play/a0l4/index.m3u8": {
@@ -4204,103 +4204,103 @@
     "is_active": true
   },
   "http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903884.783419,
+    "last_checked": 1787978920.997081,
     "is_active": false
   },
   "http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903884.7834222,
+    "last_checked": 1787978920.997084,
     "is_active": false
   },
   "http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903884.7834249,
+    "last_checked": 1787978920.9970868,
     "is_active": false
   },
   "http://185.78.112.47:8077/kinoujas/index.m3u8": {
-    "last_checked": 1787903885.0153828,
+    "last_checked": 1787978921.0041602,
     "is_active": false
   },
   "http://217.113.16.23/FOXHD/index.m3u8": {
-    "last_checked": 1787903885.1290078,
+    "last_checked": 1787978921.0088942,
     "is_active": false
   },
   "http://46.32.176.50/paramountchannel/index.m3u8": {
-    "last_checked": 1787903885.5513744,
+    "last_checked": 1787978921.2906396,
     "is_active": false
   },
   "https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv": {
-    "last_checked": 1787903885.5513783,
+    "last_checked": 1787978921.2906446,
     "is_active": false
   },
   "https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE": {
-    "last_checked": 1787903885.5513818,
+    "last_checked": 1787978921.290649,
     "is_active": false
   },
   "https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=V0nKKxZ4E0ruP24Ab6zfPA&e=2087381602&scheme=https": {
-    "last_checked": 1787903885.5513842,
+    "last_checked": 1787978921.2906516,
     "is_active": false
   },
   "http://158.101.222.193:88/georgia_play.php?id=black": {
-    "last_checked": 1787903885.5513866,
+    "last_checked": 1787978921.2906542,
     "is_active": false
   },
   "http://178.124.152.238:8088/sony": {
-    "last_checked": 1787903885.5513895,
+    "last_checked": 1787978921.2906568,
     "is_active": false
   },
   "http://37.46.49.14:18010/play/a09n/index.m3u8": {
-    "last_checked": 1787903885.5540113,
+    "last_checked": 1787978921.7495677,
     "is_active": false
   },
   "http://178.124.179.122:8088/Sci-Fi/index.m3u8": {
-    "last_checked": 1787903885.9064581,
+    "last_checked": 1787978921.6885726,
     "is_active": false
   },
   "http://45.159.74.22/Kinoseriya/mono.m3u8": {
-    "last_checked": 1787903886.369355,
+    "last_checked": 1787978921.8871338,
     "is_active": false
   },
   "http://46.32.176.50/eurokino/index.m3u8": {
-    "last_checked": 1787903890.4280386,
+    "last_checked": 1787978921.2918093,
     "is_active": false
   },
   "http://46.32.176.50/russkiyiluzion/index.m3u8": {
-    "last_checked": 1787903890.4645174,
+    "last_checked": 1787978921.392864,
     "is_active": false
   },
   "http://185.78.112.47:8077/start_air/index.m3u8": {
-    "last_checked": 1787903890.9745998,
+    "last_checked": 1787978926.4743307,
     "is_active": false
   },
   "http://95.85.109.219:7000/play/a05v": {
-    "last_checked": 1787903890.9746056,
+    "last_checked": 1787978926.474338,
     "is_active": false
   },
   "http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903890.9746091,
+    "last_checked": 1787978926.4743426,
     "is_active": false
   },
   "http://185.78.112.47:8077/start_world/index.m3u8": {
-    "last_checked": 1787903891.1993773,
+    "last_checked": 1787978928.0029202,
     "is_active": false
   },
   "http://89.221.57.5:8000/play/a00o/index.m3u8": {
-    "last_checked": 1787903891.4792457,
+    "last_checked": 1787978927.0150123,
     "is_active": false
   },
   "http://158.160.149.81:8080/88/index.m3u8": {
-    "last_checked": 1787903891.5785592,
+    "last_checked": 1787978927.3637767,
     "is_active": false
   },
   "http://89.221.57.5:8000/play/a00p/index.m3u8": {
-    "last_checked": 1787903891.992211,
+    "last_checked": 1787978927.5498068,
     "is_active": false
   },
   "http://158.101.222.193:88/georgia_play.php?id=zeetv": {
-    "last_checked": 1787903891.9922163,
+    "last_checked": 1787978927.3637824,
     "is_active": false
   },
   "http://46.32.176.50/HollywoodHD/index.m3u8": {
-    "last_checked": 1787903892.0235271,
+    "last_checked": 1787978928.0094693,
     "is_active": false
   },
   "http://188.113.190.12/329/index.m3u8": {
@@ -4308,11 +4308,11 @@
     "is_active": true
   },
   "http://46.32.176.50/mirseriala/index.m3u8": {
-    "last_checked": 1787903892.137503,
+    "last_checked": 1787978928.0172217,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a07e/index.m3u8": {
-    "last_checked": 1787903892.5593965,
+    "last_checked": 1787978928.2981226,
     "is_active": false
   },
   "http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8": {
@@ -4320,135 +4320,135 @@
     "is_active": true
   },
   "http://tvip.btk.teleos.ru:8081/chid516/index.m3u8": {
-    "last_checked": 1787903895.016253,
+    "last_checked": 1787978926.9743385,
     "is_active": false
   },
   "http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8": {
-    "last_checked": 1787903897.4355733,
+    "last_checked": 1787978928.758494,
     "is_active": false
   },
   "http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8": {
-    "last_checked": 1787903897.8919117,
+    "last_checked": 1787978929.2482705,
     "is_active": false
   },
   "http://178.217.72.66:8080/kineko/index.m3u8": {
-    "last_checked": 1787903898.9993865,
+    "last_checked": 1787978934.3721638,
     "is_active": false
   },
   "http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903898.9993918,
+    "last_checked": 1787978934.3721724,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a06z/index.m3u8": {
-    "last_checked": 1787903899.0312316,
+    "last_checked": 1787978934.5576696,
     "is_active": false
   },
   "http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903899.031244,
+    "last_checked": 1787978934.5576754,
     "is_active": false
   },
   "http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8": {
-    "last_checked": 1787903899.0563369,
+    "last_checked": 1787978935.0105598,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a068/index.m3u8": {
-    "last_checked": 1787903899.5674973,
+    "last_checked": 1787978935.0168197,
     "is_active": false
   },
   "http://178.124.179.122:8088/Kinopremiera/index.m3u8": {
-    "last_checked": 1787903899.9064693,
+    "last_checked": 1787978935.2818613,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a05l/index.m3u8": {
-    "last_checked": 1787903899.9407449,
+    "last_checked": 1787978935.023319,
     "is_active": false
   },
   "http://178.217.72.66:8080/Kinokomediya/index.m3u8": {
-    "last_checked": 1787903902.0245833,
+    "last_checked": 1787978935.30594,
     "is_active": false
   },
   "http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8": {
-    "last_checked": 1787903903.4659576,
+    "last_checked": 1787978939.1464367,
     "is_active": false
   },
   "http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903903.4659622,
+    "last_checked": 1787978936.2559657,
     "is_active": false
   },
   "http://95.85.109.219:7000/play/a087": {
-    "last_checked": 1787903903.465966,
+    "last_checked": 1787978936.2559688,
     "is_active": false
   },
   "http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903903.4659688,
+    "last_checked": 1787978936.255972,
     "is_active": false
   },
   "http://95.85.109.219:7000/play/a00y": {
-    "last_checked": 1787903903.4659717,
+    "last_checked": 1787978936.2559748,
     "is_active": false
   },
   "http://158.101.222.193:88/georgia_play.php?id=kinohit": {
-    "last_checked": 1787903903.4659874,
+    "last_checked": 1787978936.2559776,
     "is_active": false
   },
   "http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8": {
-    "last_checked": 1787903904.1212559,
+    "last_checked": 1787978939.8967688,
     "is_active": false
   },
   "http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8": {
-    "last_checked": 1787903904.128598,
+    "last_checked": 1787978939.5539432,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a06r/index.m3u8": {
-    "last_checked": 1787903904.8988986,
+    "last_checked": 1787978936.25596,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a05k/index.m3u8": {
-    "last_checked": 1787903906.0076203,
+    "last_checked": 1787978941.380116,
     "is_active": false
   },
   "http://178.217.72.66:8080/kinopokazhd/index.m3u8": {
-    "last_checked": 1787903906.0389237,
+    "last_checked": 1787978941.5649207,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a06a/index.m3u8": {
-    "last_checked": 1787903909.032493,
+    "last_checked": 1787978942.3137114,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a04f/index.m3u8": {
-    "last_checked": 1787903910.473852,
+    "last_checked": 1787978943.2640767,
     "is_active": false
   },
   "http://158.101.222.193:88/georgia_play.php?id=interesnoetv": {
-    "last_checked": 1787903910.4738567,
+    "last_checked": 1787978943.2640853,
     "is_active": false
   },
   "http://178.217.72.66:8080/komediynoe/index.m3u8": {
-    "last_checked": 1787903911.129026,
+    "last_checked": 1787978946.1555934,
     "is_active": false
   },
   "http://178.217.72.66:8080/Komediya/index.m3u8": {
-    "last_checked": 1787903911.136653,
+    "last_checked": 1787978946.5616908,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a08h/index.m3u8": {
-    "last_checked": 1787903911.9068174,
+    "last_checked": 1787978946.9048803,
     "is_active": false
   },
   "http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903911.9068227,
+    "last_checked": 1787978946.904886,
     "is_active": false
   },
   "http://31.148.48.15/Mir_Seriala/index.m3u8": {
-    "last_checked": 1787903913.0158062,
+    "last_checked": 1787978948.388446,
     "is_active": false
   },
   "http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903913.015811,
+    "last_checked": 1787978947.195831,
     "is_active": false
   },
   "http://178.217.72.66:8080/Mir_Seriala/index.m3u8": {
-    "last_checked": 1787903913.0464394,
+    "last_checked": 1787978948.5719702,
     "is_active": false
   },
   "http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8": {
@@ -4460,159 +4460,183 @@
     "is_active": true
   },
   "http://87.246.54.249:8085/NasheKino/index.m3u8": {
-    "last_checked": 1787903915.4066427,
+    "last_checked": 1787978950.4454925,
     "is_active": false
   },
   "http://178.217.72.66:8080/mosfilm/index.m3u8": {
-    "last_checked": 1787903916.0400667,
+    "last_checked": 1787978949.3216538,
     "is_active": false
   },
   "http://158.160.149.81:8080/8823/index.m3u8": {
-    "last_checked": 1787903916.4214673,
+    "last_checked": 1787978949.7484124,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a08d/index.m3u8": {
-    "last_checked": 1787903917.4818304,
+    "last_checked": 1787978950.2716022,
     "is_active": false
   },
   "http://178.217.72.66:8080/nashkinopokazhd/index.m3u8": {
-    "last_checked": 1787903918.137243,
+    "last_checked": 1787978953.1637506,
     "is_active": false
   },
   "http://178.217.72.66:8080/nashekrutoe/index.m3u8": {
-    "last_checked": 1787903918.1435187,
+    "last_checked": 1787978953.569462,
     "is_active": false
   },
   "https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8": {
-    "last_checked": 1787903918.348292,
+    "last_checked": 1787978947.1958246,
     "is_active": false
   },
   "http://89.221.57.5:8000/play/a00t/index.m3u8": {
-    "last_checked": 1787903918.6539574,
+    "last_checked": 1787978951.317511,
     "is_active": false
   },
   "http://178.217.72.66:8080/kinopremium/index.m3u8": {
-    "last_checked": 1787903920.259726,
+    "last_checked": 1787978954.2031198,
     "is_active": false
   },
   "http://158.160.149.81:8080/8191/index.m3u8": {
-    "last_checked": 1787903920.514556,
+    "last_checked": 1787978953.855982,
     "is_active": false
   },
   "http://178.124.152.238:8088/cinema": {
-    "last_checked": 1787903920.51456,
+    "last_checked": 1787978954.2031276,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.5145626,
+    "last_checked": 1787978954.203132,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.5145657,
+    "last_checked": 1787978954.2031345,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.514568,
+    "last_checked": 1787978954.2031376,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.514571,
+    "last_checked": 1787978954.2031398,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.5145733,
+    "last_checked": 1787978954.2031424,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.5145757,
+    "last_checked": 1787978954.203145,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.5145783,
+    "last_checked": 1787978954.203148,
     "is_active": false
   },
   "https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive": {
-    "last_checked": 1787903920.514581,
+    "last_checked": 1787978954.20315,
     "is_active": false
   },
   "http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER": {
-    "last_checked": 1787903920.514583,
+    "last_checked": 1787978954.2031527,
     "is_active": false
   },
   "http://158.101.222.193:88/georgia_play.php?id=fenikspluskino": {
-    "last_checked": 1787903920.514586,
+    "last_checked": 1787978954.2031558,
     "is_active": false
   },
   "http://178.217.72.66:8080/Rodnoe_Kino/index.m3u8": {
-    "last_checked": 1787903922.413795,
+    "last_checked": 1787978955.5792294,
     "is_active": false
   },
   "http://158.101.222.193:88/georgia_play.php?id=amedia": {
-    "last_checked": 1787903922.4138002,
+    "last_checked": 1787978955.396824,
     "is_active": false
   },
   "http://178.217.72.66:8080/russkiy_bestseller/index.m3u8": {
-    "last_checked": 1787903923.4292881,
+    "last_checked": 1787978956.7569563,
     "is_active": false
   },
   "http://158.101.222.193:88/georgia_play.php?id=amedia2": {
-    "last_checked": 1787903923.4292934,
+    "last_checked": 1787978955.579235,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a08f/index.m3u8": {
-    "last_checked": 1787903924.4898,
+    "last_checked": 1787978957.2793672,
     "is_active": false
   },
   "http://195.26.83.96:7006/play/a00y/index.m3u8": {
-    "last_checked": 1787903925.1464105,
-    "is_active": false
+    "last_checked": 1787978950.786538,
+    "is_active": true
   },
   "http://77.235.1.19:8000/play/a08e/index.m3u8": {
-    "last_checked": 1787903925.3563755,
+    "last_checked": 1787978958.325386,
     "is_active": false
   },
   "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8": {
-    "last_checked": 1787903925.6620462,
+    "last_checked": 1787978960.171131,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a070/index.m3u8": {
-    "last_checked": 1787903927.3244116,
+    "last_checked": 1787978960.8637881,
     "is_active": false
   },
   "http://178.217.72.66:8080/hithd/index.m3u8": {
-    "last_checked": 1787903927.522524,
+    "last_checked": 1787978961.21109,
     "is_active": false
   },
   "http://178.217.72.66:8080/A1/video.m3u8": {
-    "last_checked": 1787903929.424746,
+    "last_checked": 1787978962.4049242,
     "is_active": false
   },
   "http://178.217.72.66:8080/A2/index.m3u8": {
-    "last_checked": 1787903930.4371285,
+    "last_checked": 1787978962.5870864,
     "is_active": false
   },
   "http://178.217.72.66:8080/Amedia_Hit/index.m3u8": {
-    "last_checked": 1787903931.4986684,
+    "last_checked": 1787978963.7649598,
     "is_active": false
   },
   "http://77.235.1.19:8000/play/a05f/index.m3u8": {
-    "last_checked": 1787903932.1521575,
+    "last_checked": 1787978964.2868114,
     "is_active": false
   },
   "http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8": {
-    "last_checked": 1787903932.6707082,
+    "last_checked": 1787978965.9998841,
     "is_active": false
   },
   "http://178.217.72.66:8080/BCUActionHD/index.m3u8": {
-    "last_checked": 1787903932.9958923,
+    "last_checked": 1787978967.1812747,
     "is_active": false
   },
   "http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8": {
-    "last_checked": 1787903934.3314416,
+    "last_checked": 1787978967.871386,
     "is_active": false
   },
   "http://178.217.72.66:8080/BCUCinemaHD/index.m3u8": {
-    "last_checked": 1787903934.5305178,
+    "last_checked": 1787978968.2187421,
+    "is_active": false
+  },
+  "http://178.217.72.66:8080/BCUComedyHD/index.m3u8": {
+    "last_checked": 1787978969.4130332,
+    "is_active": false
+  },
+  "http://178.217.72.66:8080/BCUFantasticHD/index.m3u8": {
+    "last_checked": 1787978969.5946078,
+    "is_active": false
+  },
+  "http://178.217.72.66:8080/BCUFilMysticHD/index.m3u8": {
+    "last_checked": 1787978970.7729073,
+    "is_active": false
+  },
+  "http://158.160.149.81:8080/1520/index.m3u8": {
+    "last_checked": 1787978971.0577078,
+    "is_active": false
+  },
+  "http://178.217.72.66:8080/BCUHistoryHD/index.m3u8": {
+    "last_checked": 1787978971.2943833,
+    "is_active": false
+  },
+  "http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8": {
+    "last_checked": 1787978973.007801,
     "is_active": false
   }
 }
