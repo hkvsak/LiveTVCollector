@@ -3,12 +3,12 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=921600,RESOLUTION=Variant_1
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/893d307a-4cb0-45be-bdf6-e1b98d4c1a14/0.m3u8
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/2f0e0e09-8b04-47bd-b760-779af3282f10/0.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=524288,RESOLUTION=Variant_2
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/893d307a-4cb0-45be-bdf6-e1b98d4c1a14/1.m3u8
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/2f0e0e09-8b04-47bd-b760-779af3282f10/1.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=Variant_3
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/893d307a-4cb0-45be-bdf6-e1b98d4c1a14/2.m3u8
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/2f0e0e09-8b04-47bd-b760-779af3282f10/2.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3072000,RESOLUTION=Variant_4
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/893d307a-4cb0-45be-bdf6-e1b98d4c1a14/3.m3u8
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/2f0e0e09-8b04-47bd-b760-779af3282f10/3.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4403200,RESOLUTION=Variant_5
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/893d307a-4cb0-45be-bdf6-e1b98d4c1a14/4.m3u8
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/2f0e0e09-8b04-47bd-b760-779af3282f10/4.m3u8
