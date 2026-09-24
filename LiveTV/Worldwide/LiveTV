@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDE6NDQ6NTEgUE0maGFzaF92YWx1ZT1ZM0Nad0liOG5Wb2xMTzloNlJZOTJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDhhNjI3NTMtY2JiNC00NWM3LTg4NzQtNzEyZWI2MGU5YmNl/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDExOjE6MTkgUE0maGFzaF92YWx1ZT1taXhndkhIUEwzUXJQRGkvc09waVRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzIyZGMyOTgtZjI2Ny00ZGVlLWIyNjEtY2MzOTVhNjc1MzUw/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDE6NDQ6NTAgUE0maGFzaF92YWx1ZT1uUHVUL2JEcGxWMklQV0lpUzM0WGNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDg3Y2Y1YjYtOTNkMy00NDViLThhNDYtYTgxYWQ5MTlmMGIx/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDExOjE6MTggUE0maGFzaF92YWx1ZT1lVTIxTDBwcXB5S0l6cTRRbHBqaFBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmZiNWNlZjctNjY0YS00OWFiLThhOWYtZmZkNjE5YTZiNzBh/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -248,7 +248,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDE6NDQ6NTAgUE0maGFzaF92YWx1ZT1ONGU4TDRWeVV4SGpmUE1McHlrVDZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTgwMjM2YzctN2UxZS00ZGNhLWEyYmEtMjQwNmYyZDRlOGIy/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDExOjE6MTggUE0maGFzaF92YWx1ZT1yd2pVZm5HQS83MFBZMEZXbXpjZVVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzNhMzg2NzEtODViMC00M2FhLWE5NDgtOGIyNDQ3ZWJkODk0/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3162,6 +3162,12 @@
     "img": "https://i.postimg.cc/3RYQT2Vx/tv-cidade-afiliada-gazeta.jpg"
   },
   {
+    "name": "TV Club",
+    "type": "Recomendados",
+    "url": "https://isaocorp.cloudecast.com/recon/index.m3u8",
+    "img": "https://i.postimg.cc/CKZvsrRP/tv-club.png"
+  },
+  {
     "name": "TV Com",
     "type": "Recomendados",
     "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
@@ -3268,6 +3274,12 @@
     "type": "Recomendados",
     "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
     "img": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg"
+  },
+  {
+    "name": "Uni TV",
+    "type": "Recomendados",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
+    "img": "https://i.postimg.cc/FKf27hq2/uni-tv.jpg"
   },
   {
     "name": "Wording TV",
@@ -3462,6 +3474,12 @@
     "img": "https://i.imgur.com/XN6jjMR.png"
   },
   {
+    "name": "Conexao TV",
+    "type": "Variedades",
+    "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8",
+    "img": "https://i.imgur.com/CJ9SPsZ.png"
+  },
+  {
     "name": "Cultura Fast",
     "type": "Variedades",
     "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8",
@@ -3480,12 +3498,6 @@
     "img": "https://i.imgur.com/Md3xibE.png"
   },
   {
-    "name": "ESTV",
-    "type": "Variedades",
-    "url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
-    "img": "https://i.postimg.cc/nhPBDrTF/estv-logo.jpg"
-  },
-  {
     "name": "EUTV",
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
@@ -3496,6 +3508,12 @@
     "type": "Variedades",
     "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
     "img": "https://i.imgur.com/NF6PL8O.png"
+  },
+  {
+    "name": "IBT",
+    "type": "Variedades",
+    "url": "https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8",
+    "img": "https://i.postimg.cc/gcBZ12fV/rede_ibt.jpg"
   },
   {
     "name": "Já Viu TV",
@@ -3532,6 +3550,12 @@
     "type": "Variedades",
     "url": "https://play.mbcbrasil.tv.br/playlist.m3u8",
     "img": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png"
+  },
+  {
+    "name": "MKK Web TV",
+    "type": "Variedades",
+    "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "img": "https://i.imgur.com/A8Yhtid.png"
   },
   {
     "name": "NBX TV",
@@ -3588,6 +3612,18 @@
     "img": "https://i.imgur.com/sz9gTTr.png"
   },
   {
+    "name": "Record RS",
+    "type": "Variedades",
+    "url": "https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8",
+    "img": "https://i.imgur.com/JLQWoNc.png"
+  },
+  {
+    "name": "RecordTV Goias",
+    "type": "Variedades",
+    "url": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8",
+    "img": "https://i.imgur.com/Fdoax1M.png"
+  },
+  {
     "name": "Rede Cidade",
     "type": "Variedades",
     "url": "https://stmv2.srvif.com/famasi/famasi/playlist.m3u8",
@@ -3642,10 +3678,28 @@
     "img": "https://i.imgur.com/D8R0Af4.png"
   },
   {
+    "name": "SBT Cuiaba",
+    "type": "Variedades",
+    "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
+    "img": "https://i.imgur.com/EZJWQ3i.png"
+  },
+  {
     "name": "SBT Nacional",
     "type": "Variedades",
     "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
     "img": "https://i.imgur.com/tc1ALuu.png"
+  },
+  {
+    "name": "SBT Nova Mutum",
+    "type": "Variedades",
+    "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png"
+  },
+  {
+    "name": "SBT Rondonopolis",
+    "type": "Variedades",
+    "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png"
   },
   {
     "name": "Series Classic",
@@ -3682,6 +3736,12 @@
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
     "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
+  },
+  {
+    "name": "TES TV",
+    "type": "Variedades",
+    "url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
+    "img": "https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png"
   },
   {
     "name": "TV 100% Caipira",
@@ -3798,6 +3858,12 @@
     "img": "https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png"
   },
   {
+    "name": "TV Difusora Leste",
+    "type": "Variedades",
+    "url": "https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8",
+    "img": "https://i.imgur.com/hEd25Cr.png"
+  },
+  {
     "name": "TV Fronteira",
     "type": "Variedades",
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8",
@@ -3912,10 +3978,22 @@
     "img": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png"
   },
   {
+    "name": "TV Sol Comunidade",
+    "type": "Variedades",
+    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "img": "https://i.imgur.com/5cGnb4r.png"
+  },
+  {
     "name": "TV Sul Bahia",
     "type": "Variedades",
     "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/qM6nMWm.png"
+  },
+  {
+    "name": "TV Sul de Minas",
+    "type": "Variedades",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
+    "img": "https://i.imgur.com/hPh8cxK.png"
   },
   {
     "name": "TV São Gabriel",
@@ -4110,6 +4188,12 @@
     "img": "https://raw.githubusercontent.com/listamake/sitefkweb/main/logosite.png"
   },
   {
+    "name": "Gloob Web",
+    "type": "Infantil",
+    "url": "https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8",
+    "img": "https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png"
+  },
+  {
     "name": "Os Jetsons",
     "type": "Infantil",
     "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
@@ -4184,7 +4268,7 @@
   {
     "name": "Record News",
     "type": "Notícia",
-    "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+    "url": "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
@@ -4221,6 +4305,12 @@
     "name": "TV Sim Cachoeiro",
     "type": "Notícia",
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+    "img": "https://i.imgur.com/t5oUK3C.png"
+  },
+  {
+    "name": "TV Sim Sao Mateus",
+    "type": "Notícia",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
     "img": "https://i.imgur.com/t5oUK3C.png"
   },
   {
@@ -4468,6 +4558,12 @@
     "type": "Educação",
     "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
     "img": "https://i.imgur.com/MtQWAHv.png"
+  },
+  {
+    "name": "TV UFG",
+    "type": "Educação",
+    "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
+    "img": "https://i.imgur.com/Yp3dbJo.png"
   },
   {
     "name": "Band Sports",
@@ -4796,7 +4892,7 @@
   {
     "name": "Band Sports [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgwMi5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgwMS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/BAND_SPORTS.png"
   },
   {
@@ -4864,6 +4960,12 @@
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgyOS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/CARTOON_NETWORK.png"
+  },
+  {
+    "name": "Chapolin Colorado",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMDQubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg"
   },
   {
     "name": "Chuck Norris O Homem da Lei",
@@ -4934,13 +5036,13 @@
   {
     "name": "Discovery Channel [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2Mi5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY.png"
   },
   {
-    "name": "Discovery H&H [HD]",
+    "name": "Discovery H&H [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2OS5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2OC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_H_H.png"
   },
   {
@@ -5004,15 +5106,15 @@
     "img": "http://24horas.cc:80/images/2a82f84243308b8bc4c6c0788e9fd512.jpg"
   },
   {
-    "name": "E! [HD]",
+    "name": "E! [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkwMi5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkwMS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/E.png"
   },
   {
-    "name": "ESPN 2 [SD]",
+    "name": "ESPN 2 [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkyMy5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkxOS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/ESPN_2.png"
   },
   {
@@ -5036,7 +5138,7 @@
   {
     "name": "Eu a Patroa e as Criancas",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMjAubTN1OA.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMjQubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg"
   },
   {
@@ -5054,7 +5156,7 @@
   {
     "name": "Film&Arts [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MjAubTN1OA.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MTQubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/FILM&ART.png"
   },
   {
@@ -5084,13 +5186,13 @@
   {
     "name": "Game of Thrones",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1MzMubTN1OA.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1MzQubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg"
   },
   {
     "name": "Game Shakers",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMDgubTN1OA.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMDcubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg"
   },
   {
@@ -5372,7 +5474,7 @@
   {
     "name": "HBO 2 [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExMS5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExMC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_2.png"
   },
   {
@@ -5408,8 +5510,14 @@
   {
     "name": "ID [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE1MC5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE1MS5tM3U4.m3u8",
     "img": "http://paldi.pro/static/logos/canais/id.png"
+  },
+  {
+    "name": "Inspetor Bugiganga",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTYubTN1OA.m3u8",
+    "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg"
   },
   {
     "name": "Irmaos a Obra",
@@ -5430,10 +5538,34 @@
     "img": "http://paldi.pro/images/93d25c1472f252a456e18ebd1db401e4.jpg"
   },
   {
+    "name": "Jovem Sheldon",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMjYubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/8e00c4bd23067b691e6f943bd3686d7a.jpg"
+  },
+  {
+    "name": "Kevin Pode Esperar",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzkyNzYubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/d98ad142c0f4c03f8f66f8b3e6ebfce1.jpg"
+  },
+  {
     "name": "Lady Night",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1MjAubTN1OA.m3u8",
     "img": "http://paldi.pro/images/1838ab4c99e72238736fc3218d7ea753.jpg"
+  },
+  {
+    "name": "Largados e Pelados",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5MjkubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg"
+  },
+  {
+    "name": "Largados e Pelados Brasil",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTQ3NjQubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/877ec1eb555e21f891938910c7abadc6.jpg"
   },
   {
     "name": "Lifetime [FHD]",
@@ -5478,6 +5610,12 @@
     "img": "https://logos.imperioapps.top/MEGAPIX.png"
   },
   {
+    "name": "Mestre do Sabor",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNTUubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/a2ca5678c188b08d7d74c8c1e85af331.jpg"
+  },
+  {
     "name": "Momonstros",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDUzNzkubTN1OA.m3u8",
@@ -5508,10 +5646,28 @@
     "img": "http://paldi.pro/images/7df8069ca10b3f348c4ad6a8acef0e60.jpg"
   },
   {
+    "name": "O Marinheiro Popeye",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5NDYubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/292cb3546f2e5f3d19d8409aced392e0.jpg"
+  },
+  {
+    "name": "O Mundo de Greg",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzUwNzYubTN1OA.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "O Mundo Maravilhosamente Estranho de Gumball",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0NjAubTN1OA.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "O Rancho",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NTkubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/2eca1eb67060a6f3975109a5c23ca684.jpg"
   },
   {
     "name": "O Show de Tom e Jerry",
@@ -5532,6 +5688,24 @@
     "img": "http://paldi.pro/images/417e7084c523b352e691462e841ac184.jpg"
   },
   {
+    "name": "One Piece",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0NjYubTN1OA.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Operacao Fronteira Brasil",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTQ3NzIubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/4b25870c4db9147ee1213922c97f43ac.jpg"
+  },
+  {
+    "name": "Operacao Fronteira Espanha",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTQ3NzUubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/1d301113d4018af944e2ede17e91d6ec.jpg"
+  },
+  {
     "name": "Os Apuros de Penélope Charmosa",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNjIzNzYubTN1OA.m3u8",
@@ -5548,6 +5722,24 @@
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTE2MjIubTN1OA.m3u8",
     "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/heE9mYgc4POrEI9TKfSgBZsn8lL.jpg"
+  },
+  {
+    "name": "Os Feiticeiros De Waverly Place",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NjMubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/2c245ac1207112eac49f079d8fe0cd38.jpg"
+  },
+  {
+    "name": "Os Guerreiros Wasabi",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNjMubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/ec286f6f4e078d86188c388f64eefd8d.jpg"
+  },
+  {
+    "name": "Os Homens Sao de Marte... E e pra La Que Eu Vou",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNzIubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/3940a20bb5eb7095f88f7424610bd167.jpg"
   },
   {
     "name": "Os Incriveis Espioes",
@@ -5570,7 +5762,7 @@
   {
     "name": "Paramount Plus 1 [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83Mjk3Ny5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83Mjk3OC5tM3U4.m3u8",
     "img": "https://www.fontedecanais.one/logos/canais/paramountplus.png"
   },
   {
@@ -5584,6 +5776,12 @@
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTgubTN1OA.m3u8",
     "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gkLmjNcFwJposbG7vm1RQ7PDcJS.jpg"
+  },
+  {
+    "name": "Pokemon",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3OTQubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg"
   },
   {
     "name": "Premiere 2 [FHD]",
@@ -5622,9 +5820,21 @@
     "img": "https://logos.imperioapps.top/PRIME_BOX.png"
   },
   {
+    "name": "Prison Break: Em Busca da Verdade",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0OTIubTN1OA.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Quilos Mortais",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1MzMubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/40e303224a1977f77896cfa33ac3e73e.jpg"
+  },
+  {
     "name": "Quilos Mortais Como Eles Estao Agora",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1MjYubTN1OA.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1MjkubTN1OA.m3u8",
     "img": "http://paldi.pro/images/445b89c14bfebb8528ac8578936ac88b.jpg"
   },
   {
@@ -5676,6 +5886,12 @@
     "img": "https://logos.imperioapps.top/REDE_TV.png"
   },
   {
+    "name": "Restaurando Casas com Dave e Jenny",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTUyMjMubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/dc72410ce5dc2fa31359f5be288164d8.jpg"
+  },
+  {
     "name": "Riquinho",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NDYubTN1OA.m3u8",
@@ -5694,6 +5910,12 @@
     "img": "https://cseprs3.s3.amazonaws.com/email-editor-files/e76a405b-665c-4277-6e2a-08d82a5048c3/8d6c04dd-0c53-4ea3-99b3-e0e73065dd98.png"
   },
   {
+    "name": "Sai de Baixo",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NTAubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg"
+  },
+  {
     "name": "Sailor Moon",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NTUubTN1OA.m3u8",
@@ -5708,8 +5930,20 @@
   {
     "name": "SBT SP [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MzkubTN1OA.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83Nzk2My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/sbt.png"
+  },
+  {
+    "name": "Sessao de Terapia",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMDkubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg"
+  },
+  {
+    "name": "Shark Tank Brasil",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMDMubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/5461c463853f649ff8a78546952f9974.jpg"
   },
   {
     "name": "Space [HD]",
@@ -5748,6 +5982,18 @@
     "img": "https://logos.imperioapps.top/SPORTYNET.png"
   },
   {
+    "name": "Star Trek Discovery",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcwNTYubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg"
+  },
+  {
+    "name": "Star Wars Rebels",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcwNzMubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg"
+  },
+  {
     "name": "Street Fighter II Victory",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTQ3NTkubTN1OA.m3u8",
@@ -5770,6 +6016,12 @@
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzY3NDMubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg"
+  },
+  {
+    "name": "Sítio do Picapau Amarelo",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcwMjUubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/15e33e0696bca298b9d73aa66f162fcf.jpg"
   },
   {
     "name": "Taz Mania",
@@ -5796,9 +6048,9 @@
     "img": "https://logos.imperioapps.top/TCPremium.png"
   },
   {
-    "name": "Telecine Touch [SD]",
+    "name": "Telecine Touch [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY1MS5tM3U4.m3u8",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM2Ny5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TCTouch.png"
   },
   {
@@ -5818,6 +6070,12 @@
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1NDMubTN1OA.m3u8",
     "img": "http://paldi.pro/images/99e1066eb3e8b77343fbb44a8b1ccf8d.jpg"
+  },
+  {
+    "name": "TLC [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM3Mi5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/TLC.png"
   },
   {
     "name": "TNT Series [FHD]",
@@ -5856,6 +6114,12 @@
     "img": "http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png"
   },
   {
+    "name": "Top Chef Brasil",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5NDkubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/c141db28409f6d336d5246dfb6c30080.jpg"
+  },
+  {
     "name": "Top Wing",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTE5NTIubTN1OA.m3u8",
@@ -5892,6 +6156,12 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "Ultimate Beastmaster Brasil",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDE0OTcubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/24ae894814508f234f8e3c6771cc34f0.jpg"
+  },
+  {
     "name": "Vampirina",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NDEubTN1OA.m3u8",
@@ -5910,10 +6180,28 @@
     "img": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg"
   },
   {
+    "name": "Xena A Princesa Guerreira",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMTgubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg"
+  },
+  {
+    "name": "Yu-Gi-Oh - Duel Monsters",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMTMubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg"
+  },
+  {
     "name": "Zoomoo [4K]",
     "type": "Canais de TV",
     "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNzg1MzMubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/ZOOMOO.png"
+  },
+  {
+    "name": "Zorro",
+    "type": "Canais de TV",
+    "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzY4MTkubTN1OA.m3u8",
+    "img": "http://24horas.cc:80/images/0ce1cfa72377b1ac6cdad3155d500320.jpg"
   },
   {
     "name": "TV Sonata",
@@ -6000,6 +6288,12 @@
     "img": "https://i.imgur.com/Sdou1Ab.png"
   },
   {
+    "name": "TV Camara 2",
+    "type": "Legislativo",
+    "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+    "img": "https://i.imgur.com/dHrUG1R.png"
+  },
+  {
     "name": "Jovem Pan News",
     "type": "Notícias",
     "url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
@@ -6078,6 +6372,12 @@
     "img": "https://i.postimg.cc/kgRYS85n/tv-rabelo.jpg"
   },
   {
+    "name": "Rede Mariana",
+    "type": "Religiosos",
+    "url": "https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8",
+    "img": "https://i.postimg.cc/Ghhn6JZG/rede-mariana.jpg"
+  },
+  {
     "name": "Rede Super TV",
     "type": "Religiosos",
     "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
@@ -6094,6 +6394,12 @@
     "type": "Religiosos",
     "url": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
     "img": "https://i.postimg.cc/9fW8VhLV/gln-tv-capa.jpg"
+  },
+  {
+    "name": "1001 Noites",
+    "type": "Shop",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    "img": "https://i.imgur.com/dWA9y2J.png"
   },
   {
     "name": "Travel Box Brazil",
@@ -6392,35 +6698,41 @@
   {
     "name": "Record News Alternativo 1",
     "type": "Alternativos",
-    "url": "http://45.177.114.115/RECORD_NEWS/index.m3u8",
+    "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/RECORD_NEWS/index.m3u8",
+    "url": "http://45.177.114.115/RECORD_NEWS/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 3",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/RECORD_NEWS/index.m3u8",
+    "url": "http://168.197.104.22/RECORD_NEWS/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 4",
     "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
+    "url": "http://170.83.16.50/RECORD_NEWS/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 5",
     "type": "Alternativos",
-    "url": "http://186.219.52.187/record_news/index.m3u8",
+    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 6",
+    "type": "Alternativos",
+    "url": "http://186.219.52.187/record_news/index.m3u8",
+    "img": "https://i.imgur.com/HZDRG0K.png"
+  },
+  {
+    "name": "Record News Alternativo 7",
     "type": "Alternativos",
     "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
