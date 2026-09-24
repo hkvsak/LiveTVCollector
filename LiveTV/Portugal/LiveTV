@@ -5798,13 +5798,13 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDExOjE6MTkgUE0maGFzaF92YWx1ZT1taXhndkhIUEwzUXJQRGkvc09waVRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzIyZGMyOTgtZjI2Ny00ZGVlLWIyNjEtY2MzOTVhNjc1MzUw/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI2IDE6Mzk6MSBQTSZoYXNoX3ZhbHVlPW1tOHduMzFhZy8zV2MzeXNXY0JIS1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zY2EwMzNkNy0xMDc4LTQ2MzQtYTRjZi05ODVkYmQ4Mzg5Njk=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDExOjE6MTggUE0maGFzaF92YWx1ZT1lVTIxTDBwcXB5S0l6cTRRbHBqaFBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmZiNWNlZjctNjY0YS00OWFiLThhOWYtZmZkNjE5YTZiNzBh/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI2IDE6Mzk6MCBQTSZoYXNoX3ZhbHVlPUFvaXdPWThaeVEyRzMzQlV0QVlwd1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kNzE5OWI3MS0zZjZkLTQ5OGItYjdiYi1iMDJlNjFhZWJjOWY=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -5888,7 +5888,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDExOjE6MTggUE0maGFzaF92YWx1ZT1yd2pVZm5HQS83MFBZMEZXbXpjZVVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzNhMzg2NzEtODViMC00M2FhLWE5NDgtOGIyNDQ3ZWJkODk0/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI2IDE6Mzk6MCBQTSZoYXNoX3ZhbHVlPWdYM1h1a1JCRmFVSkZHNTlaM0E2T1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZGYwMjE4NS1iMWEzLTQ5NGUtYTNhZi1hYWU4NWJhNGNiNWY=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
